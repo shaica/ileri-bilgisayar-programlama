@@ -52,4 +52,16 @@ git-bash    |Versiyon takibi| İsteğe Bağlı| [git-kurulumu](git-kurulumu.md)
 Hyper       | Kullanışlı bir komut istemi programı. | İsteğe bağlı | [hyper-kurulumu](hyper-kurulumu)
 
 # Önemli Not:
+
 Kurulumları burada anlatıldığı gibi yapmanız doğru çalışmaları açısından önem taşımaktadır. Eğer daha önceden deneyiminiz yoksa farklı kurulumlar gerçekleştirmeyiniz!
+
+# Ders Dosyalarını İndirme
+
+Program kurulumlarını yaptıktan sonra ders dosyalarını indirmek için aşağıdaki işlemleri takip ediniz.
+
+# Git Bash ile ders dosyalarının indirilmesi
+
+1. Komut istemini açınız. Hyper komut istemini indirdiyseniz Hyper'ı açınız.
+2.
+
+# ZİP Dosyası olarak indirme
