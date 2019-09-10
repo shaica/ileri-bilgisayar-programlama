@@ -12,7 +12,7 @@ Kurulum için işletim sisteminize uygun olan adımları takip ediniz.
 
  > Bu kurulumu gerçekleştirdiğiniz tarihe bağlı olarak **Anaconda 2019.07** yerine daha ileri bir sürümü belirten farklı bir numara olabilir. Bu durumda kurulum aşamaları değişmemektedir. Sadece en güncel sürümü yüklüyor olacaksınız.
 
-  ![Anaconda](images/readme/anaconda.PNG)
+  ![Anaconda](images/readme/anaconda.png)
 
  4. Bilgisayarınızın 32-Bit veya 64-Bit olduğunu öğrenmek için aşağıdaki adımları takip ediniz.
   * **Bilgisayarım** veya **Bu Bilgisayar** klasörünü açınız.
@@ -36,16 +36,16 @@ Kurulum için işletim sisteminize uygun olan adımları takip ediniz.
   * **Advanced Options** aşamasında yukarıdaki **Add Anaconda to my PATH environment variable** kutucuğu **İŞARETSİZ** bırakılmalıdır. Bununla ilgili işlem kurum tamamlandıktan sonra ayrıca yapılacaktır.
 
 
-  ![anaconda_path](images/readme/anaconda_path.PNG)
+  ![anaconda_path](images/readme/anaconda_path.png)
 
 8. Son olarak **Install** tuşuna tıklayıp, kurulumun tamamlanmasını bekleyiniz.
 9. Kurulum tamamlandıktan sonra 4. adımdaki işlemleri tekrarlayarak **Sistem** ekranını açınız ve sol menüdeki **Gelişmiş Sistem Ayarlarına** tıklayınız.
 
-![env1](images/readme/env1.PNG)
+![env1](images/readme/env1.png)
 
 10. Açılan yeni pencerede **Ortam Değişkenleri** menüsünü açınız.
 
-![env2](images/readme/env2.PNG)
+![env2](images/readme/env2.png)
 
 11. Açılan yeni pencerede aşağıdaki şekilde mavi ile işaretlenmiş **Path** değişkenini seçip **Düzenle** menüsüne tıklayınız.
 12. Açılan yeni pencerede **Yeni** sekmesini seçip aşağıdaki adresleri tam olarak yapıştırınız. **Tamam**'a basıp kaydediniz. Geri kalan pencerelerde de **Tamam**'a basarak çıkınız.
@@ -54,11 +54,11 @@ Kurulum için işletim sisteminize uygun olan adımları takip ediniz.
 13. Bilgisayarınız yeniden başlatınız.
 14. Windows Başlat simgesine sağ tıklayıp **Komut İstemi** veya **Komut İstemi (Yönetici)**'sini seçiniz.
 
-![lastCheck](images/readme/lastCheck.PNG)
+![lastCheck](images/readme/lastCheck.png)
 
 15. Açılan ekrana **conda --version** yazıp enter'a basınız. Sonra da **python --version** yazıp enter'a basınız. Aşağıdaki gibi bir görüntüyle karşılaşıyorsanız kurulumu başarıyla tamamlamışsınız demektir. Tebrikler! 🎉
 
-![cli](images/readme/cli.PNG)
+![cli](images/readme/cli.png)
 
 ## MACOS
 1. [Anaconda Website](www.anaconda.com) adresini açınız.
@@ -67,7 +67,7 @@ Kurulum için işletim sisteminize uygun olan adımları takip ediniz.
 
 > Bu kurulumu gerçekleştirdiğiniz tarihe bağlı olarak **Anaconda 2019.07** yerine daha ileri bir sürümü belirten farklı bir numara olabilir. Bu durumda kurulum aşamaları değişmemektedir. Sadece en güncel sürümü yüklüyor olacaksınız.
 
- ![Anaconda](images/readme/anacondaMacOS.PNG)
+ ![Anaconda](images/readme/anacondaMacOS.png)
 
 4. **Python 3.7 version** nun altında kalan yükleyicilerden (Installer) **64-Bit Graphical Installer**'a tıklayıp kurulum dosyasını indiriniz.
 
