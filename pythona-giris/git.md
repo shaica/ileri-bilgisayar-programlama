@@ -24,7 +24,7 @@ git status
 
 Bu komutla takibini yaptığınız dosyalardaki değişiklikleri takip edebilirsiniz. Bu komutu çalıştırdıktan sonra komut istemi ekranında hangi dosyalarda değişiklik yapıldığı, hangi dosyaların eklendiği, silindiği vb bilgiler yazdırılıcaktır.
 
-##git add
+## git add
 
 Yaptığınız değişiklikleri versiyon kontrolüne kaydetmeden önce **add** komutunu kullanarak, kaydedilecek olduklarını işaretlemeniz gerekmektedir.
 
