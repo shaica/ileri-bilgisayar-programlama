@@ -51,17 +51,87 @@ PyCharm     |Spyder'a alternatif bir IDE| İsteğe Bağlı| [pyCharm-kurulumu](p
 git-bash    |Versiyon takibi| İsteğe Bağlı| [git-kurulumu](git-kurulumu.md)
 Hyper       | Kullanışlı bir komut istemi programı. | İsteğe bağlı | [hyper-kurulumu](hyper-kurulumu)
 
-# Önemli Not:
+## İşlem Sırası
+
+1. [Anaconda 3 Kurulumu](python-kurulumu.md) (Zorunlu)
+2. [PyCharm Kurulumu](pyCharm-kurulumu.md) (İsteğe Bağlı)
+
+  2-1. [IDE Kullanımı](pythona-giris/IDE.md)
+
+3. [Git Bash Kurulumu](git-kurulumu.md) (İsteğe Bağlı)
+
+  3-1. [Git Kullanımı](pythona-giris/git.md)  
+
+4. [Hyper Kurulumu](hyper-kurulumu.md) (İsteğe Bağlı)
+
+  4-1. [Komut İstemi Kullanımı](pythona-giris/CLI.md)
+
+> Bu aşamadan sonra bütün işlemler zorunludur.
+
+5. [Ders Dosyalarını İndirme](ders-dosyalarini-indirme.md)
+
+> Bu aşamadan sonraki dersler bilgisayarınıza indirdiğiniz dosyalar üzerinden yapılacaktır.
+
+6. [Jupyter Notebook Kullanımı](jupyter-notebook-kullanimi.md)
+
+7. [Python'a Giriş](pythona-giris/pythona-giris.ipynb)
+
+8. [Veri Tipleri - String](veri-tipleri/string)
+
+  8-1. String Nedir?
+
+  8-2. String Metodları
+
+  8-3. Print Fonksiyonu
+
+9. [Veri Tipleri - Nümerik](veri-tipleri/numeric)
+
+  9-1. Integer
+
+  9-2. Float
+
+  9-3. Matematiksel Operatörler
+
+10. [Veri Tipleri - Python Nesneleri](veri-tipleri/python-objects)
+
+  10-1. Listeler
+
+  10-2. Dictionary (Sözlükler)
+
+  10-3. Diziler
+
+11. [Python Kütüphaneleri](python-kutuphaneleri/)
+
+  11-1. Pyton Kütüphaneleri
+
+  11-2. [Numpy Nedir?](python-kutuphaneleri/numpy)
+
+  11-3. [Numpy Metodları](python-kutuphaneleri/numpy)
+
+12. [Koşul İfadeleri](kosul-ifadeleri/)
+
+13. [Döngüler](donguler/)
+
+  13-1. **for** döngüsü
+
+  13-2. **while** döngüsü
+
+14. [Fonksiyonlar](fonksiyonlar/)
+
+  14-1. Fonksiyon Nedir?
+
+  14-2. Kullanıcıdan Bilgi İsteme
+
+  14-3. Fonksiyon Tanımlama
+
+15. [Uygulamalar](uygulamalar)
+> Uygulamalar Spyder veya PyCharm kullanılarak yapılacaktır.
+
+  15-1. Uygulama 1
+
+  15-2. Uygulama 2
+
+
+## Önemli Not:
 
 Kurulumları burada anlatıldığı gibi yapmanız doğru çalışmaları açısından önem taşımaktadır. Eğer daha önceden deneyiminiz yoksa farklı kurulumlar gerçekleştirmeyiniz!
-
-# Ders Dosyalarını İndirme
-
-Program kurulumlarını yaptıktan sonra ders dosyalarını indirmek için aşağıdaki işlemleri takip ediniz.
-
-# Git Bash ile ders dosyalarının indirilmesi
-
-1. Komut istemini açınız. Hyper komut istemini indirdiyseniz Hyper'ı açınız.
-2.
-
-# ZİP Dosyası olarak indirme
