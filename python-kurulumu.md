@@ -49,10 +49,16 @@ Kurulum için işletim sisteminize uygun olan adımları takip ediniz.
 
 11. Açılan yeni pencerede aşağıdaki şekilde mavi ile işaretlenmiş **Path** değişkenini seçip **Düzenle** menüsüne tıklayınız.
 12. Açılan yeni pencerede **Yeni** sekmesini seçip aşağıdaki dizinleri tam olarak yapıştırınız. **Tamam**'a basıp kaydediniz. Geri kalan pencerelerde de **Tamam**'a basarak çıkınız.
- * C:\ProgramData\Anaconda3\Scripts
- * C:\ProgramData\Anaconda3
+ * C:\Users\\**username**\Anaconda3\Scripts
+ * C:\Users\\**username**\Anaconda3
 13. Bilgisayarınız yeniden başlatınız.
-14. Windows Başlat simgesine sağ tıklayıp **Komut İstemi** veya **Komut İstemi (Yönetici)**'sini seçiniz.
+14. Windows Başlat menüsünde **Anaconda Prompt** programını çalıştırıp aşağıdaki kodu yapıştırıp enter'a basınız.
+
+```
+conda init --all
+```
+15. Anaconda Prompt'u kapatabilirsiniz.
+16. Windows Başlat simgesine sağ tıklayıp **Komut İstemi**'ni veya Başlat menüsünden **Hyper Terminal** programını başlatınız.
 
 ![lastCheck](images/python/lastCheck.png)
 
