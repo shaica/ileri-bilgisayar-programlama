@@ -23,7 +23,7 @@ Tuesday 14:00\-15:00                        | Tuesday 13:00\-14:00
 ENF1170 - Temel Bilgisayar Bilimleri
 
  **Hafta**|                      **Ders Konusu**                      | **Jupyter Notebook**
-----------|-------------------------------------------------------------|------------------
+----------|-----------------------------------------------------------|-------
 1. Hafta  |                     |
 2. Hafta  |                     |
 3. Hafta  |                     |
@@ -38,7 +38,7 @@ ENF1170 - Temel Bilgisayar Bilimleri
 12. Hafta |                     |
 13. Hafta |                     |
 14. Hafta |                     |
-15. Hafta | Final                                                       |
+15. Hafta | Final                                                     |
 
 **Dikkat!**
 

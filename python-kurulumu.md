@@ -32,7 +32,7 @@ Kurulum için işletim sisteminize uygun olan adımları takip ediniz.
  7. Kurulum programında **ileri** (**next**) tuşuyla ilerlerken aşağıdakilere dikkat ediniz.
 
   * Programın kurulacağı dizin üzerinde değişiklik yapmayınız. **Bu dizini bir yere not ediniz!** İleride kullanacağız.
-  * Programın sadece kullanıcı için veya bütün sisteme yüklenmesi fark etmemektedir, varsayılan seçimi bırakmanız tavsiye edilir.
+  * Programı **sadece benim için (Just Me)** tercihiyle yükleyiniz.
   * **Advanced Options** aşamasında yukarıdaki **Add Anaconda to my PATH environment variable** kutucuğu **İŞARETSİZ** bırakılmalıdır. Bununla ilgili işlem kurum tamamlandıktan sonra ayrıca yapılacaktır.
 
 
