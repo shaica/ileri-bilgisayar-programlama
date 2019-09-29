@@ -42,7 +42,7 @@ ENF1170 - Temel Bilgisayar Bilimleri
 
 **Dikkat!**
 
-Bu derste kullanacağınız programların kurulumlarını yapmak için _programAdı-kurulum_ dosyalarındaki işlemleri adım adım gerçekleştirmelisiniz. Aşağıdaki tabloda zorunlu ve isteğe bağlı olarak kullanabileceğiniz programların bilgisini ve kurulum tarihi dosya adlarını bulabilirsiniz.
+Bu derste kullanacağınız programların kurulumlarını yapmak için **programAdı-kurulum** dosyalarındaki işlemleri adım adım gerçekleştirmelisiniz. Aşağıdaki tabloda zorunlu ve isteğe bağlı olarak kullanabileceğiniz programların bilgisini ve kurulum tarifi dosya adlarını bulabilirsiniz.
 
 **Program** |**Açıklama**| **Zorunlu** | **Kurulum Tarifi Dosyası**
 ------------|------------|-------------|----------------------------
@@ -80,9 +80,9 @@ Hyper       | Kullanışlı bir komut istemi programı. | İsteğe bağlı | [hy
 
   8-1. String Nedir?
 
-  8-2. String Metodları
+  8-2. Print Fonksiyonu
 
-  8-3. Print Fonksiyonu
+  8-3. String Metodları
 
 9. [Veri Tipleri - Nümerik](veri-tipleri/numeric)
 

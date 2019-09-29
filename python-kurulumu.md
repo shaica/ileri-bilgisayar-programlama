@@ -49,8 +49,11 @@ Kurulum için işletim sisteminize uygun olan adımları takip ediniz.
 
 11. Açılan yeni pencerede aşağıdaki şekilde mavi ile işaretlenmiş **Path** değişkenini seçip **Düzenle** menüsüne tıklayınız.
 12. Açılan yeni pencerede **Yeni** sekmesini seçip aşağıdaki dizinleri tam olarak yapıştırınız. **Tamam**'a basıp kaydediniz. Geri kalan pencerelerde de **Tamam**'a basarak çıkınız.
- * C:\Users\\**username**\Anaconda3\Scripts
- * C:\Users\\**username**\Anaconda3
+```
+ C:\Users\\**username**\Anaconda3\Scripts
+ C:\Users\\**username**\Anaconda3
+ ```
+ 
 13. Bilgisayarınız yeniden başlatınız.
 14. Windows Başlat menüsünde **Anaconda Prompt** programını çalıştırıp aşağıdaki kodu yapıştırıp enter'a basınız.
 
@@ -62,7 +65,7 @@ conda init --all
 
 ![lastCheck](images/python/lastCheck.png)
 
-15. Açılan ekrana **conda --version** yazıp enter'a basınız. Sonra da **python --version** yazıp enter'a basınız. Aşağıdaki gibi bir görüntüyle karşılaşıyorsanız kurulumu başarıyla tamamlamışsınız demektir. Tebrikler! 🎉
+15. Açılan ekrana `conda --version` yazıp enter'a basınız. Sonra da `python --version` yazıp enter'a basınız. Aşağıdaki gibi bir görüntüyle karşılaşıyorsanız kurulumu başarıyla tamamlamışsınız demektir. Tebrikler! 🎉
 
 ![cli](images/python/cli.png)
 
