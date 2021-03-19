@@ -1,3 +1,5 @@
+![](https://img.shields.io/github/last-commit/shaica/ileri-bilgisayar-programlama)
+![](https://img.shields.io/maintenance/no/2019)
 # END2971 - İleri Bilgisayar Programlama
 
 Yıldız Teknik Üniversitesi
@@ -5,6 +7,8 @@ Yıldız Teknik Üniversitesi
 END2971 - İleri Bilgisayar Programlama
 
 Ders Bilgi Föyü
+
+
 
 <!---
 **Lecturer Information**                    | **Assistant Information**
@@ -17,11 +21,13 @@ cvildan@yildiz.edu.tr                       | skoyun@yildiz.edu.tr
 **Office Hours**                            | **Office Hours**
 Tuesday 14:00\-15:00                        | Tuesday 13:00\-14:00
 -->
-
+<!---
 **Ön Koşul Dersleri**
-
+-->
+<!---
 ENF1170 - Temel Bilgisayar Bilimleri
-
+-->
+<!---
  **Hafta**|                      **Ders Konusu**                      | **Jupyter Notebook**
 ----------|-----------------------------------------------------------|-------
 1. Hafta  |                     |
@@ -39,7 +45,7 @@ ENF1170 - Temel Bilgisayar Bilimleri
 13. Hafta |                     |
 14. Hafta |                     |
 15. Hafta | Final                                                     |
-
+-->
 **Dikkat!**
 
 Bu derste kullanacağınız programların kurulumlarını yapmak için **programAdı-kurulum** dosyalarındaki işlemleri adım adım gerçekleştirmelisiniz. Aşağıdaki tabloda zorunlu ve isteğe bağlı olarak kullanabileceğiniz programların bilgisini ve kurulum tarifi dosya adlarını bulabilirsiniz.
